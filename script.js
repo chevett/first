@@ -1,3 +1,3 @@
-setTimout(function(){
+setTimeout(function(){
     alert('gotcha');
 }, 999);
